@@ -61,5 +61,5 @@ go build -o quark-nd-mcp .
 ## 关于本 fork
 
 - 上游：[MichealJl/quark-nd-mcp](https://github.com/MichealJl/quark-nd-mcp)
-- 上述改动位于分支 [`fix/upload-and-cookie-login`](https://github.com/rea1s/quark-nd-mcp/tree/fix/upload-and-cookie-login)，并已向上游提交 [PR #2](https://github.com/MichealJl/quark-nd-mcp/pull/2)
+- 以上改动也已向上游提交 [PR #2](https://github.com/MichealJl/quark-nd-mcp/pull/2)（尚未合并）
 - 许可证：MIT（与上游一致）
